@@ -20,3 +20,15 @@
 {
     color: rgb(41,167,70);
 }
+.bgBlack
+{
+    background-color: rgba(0, 0, 0, 0.473);
+}
+.carruseltext
+{
+  padding-top: 20%;
+  padding-left: 50%;
+  padding-right: 10%;
+  text-align: right;
+  font-size: 1.3em;
+}
