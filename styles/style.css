@@ -1,1 +1,22 @@
 
+.navBarColor
+{
+    background-color: rgb(51,58,64);
+   
+}
+.whiteTipo
+{
+    color:white
+}
+.nav-link
+{
+    color: gray;
+}
+.nav-link:focus
+{
+    color: white;
+}
+.linkCompra
+{
+    color: rgb(41,167,70);
+}
