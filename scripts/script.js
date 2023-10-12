@@ -27,7 +27,7 @@ window.onscroll = function () {
 
 }
 
-/*window.onresize=function(){
+window.onresize=function(){
     if(anchoPantalla>800)
     {
         
@@ -38,4 +38,4 @@ window.onscroll = function () {
         if(navBar.classList.contains("fixed-top"))
         navBar.classList.remove("fixed-top");
     }
-}*/
+}
