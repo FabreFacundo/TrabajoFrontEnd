@@ -30,6 +30,7 @@ window.onscroll = function () {
 }
 
 window.onresize=function(){
+    let anchoPantalla = window.innerWidth;
     if(anchoPantalla>800)
     {
         
