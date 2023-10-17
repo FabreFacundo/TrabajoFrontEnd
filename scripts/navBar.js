@@ -1,3 +1,5 @@
+// comprtamiento navBar 
+
 var navBar = document.getElementById("barraNav");
 var enCalculo=false;
 window.onload=function()
